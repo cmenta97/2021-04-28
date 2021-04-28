@@ -1,3 +1,36 @@
+# Dagens lektion 2021-04-28
+
+## Arbetsflöde
+
+1. Började med att skapa en arbetsmapp `C:\Users\cMenta\Desktop\lektioner Campus Mölndal\lektion 28 april\2021-04-28`
+
+2. Skapade React projekt med dagens datum som foldernamn `npx create-react-app 2021-04-28`
+
+3. Gick in i react projektet och startade det för att verifiera att det fungerar
+```shell
+cd 2021-04-28
+npm start
+```
+
+4. Rensade och tog bort filer som vi inte behöver samt tog bort referenser till de filerna i `index.js` samt `App.js`
+
+5. Installera ett CSS ramverk i detta fallet [Tachyons](https://tachyons.io/)
+    - Öppna ny terminal
+    - `npm install tachyons@4.12.0`
+    - `npm start`
+    - importera Tachyons i `index.js`
+
+6. Testa hur Tachyons fungerar lite lätt innan lunch.
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
